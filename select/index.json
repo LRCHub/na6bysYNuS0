@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Play Dice!",
+  "base_artist": "Hakos Baelz",
+  "createdAt": "2026-02-13T15:36:18.846372Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Play Dice!",
+      "artist": "Hakos Baelz",
+      "has_synced": true,
+      "path": "select/01_Play_Dice!_Hakos_Baelz.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Play Dice! (TeddyLoid Re-Arrangement)",
+      "artist": "Hakos Baelz",
+      "has_synced": false,
+      "path": "select/02_Play_Dice!_(TeddyLoid_Re-Arrangement)_Hakos_Baelz.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Play Dice! (REMIX)",
+      "artist": "Dwandonly",
+      "has_synced": false,
+      "path": "select/03_Play_Dice!_(REMIX)_Dwandonly.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Play Dice! (TeddyLoid Re-Arrangement)",
+      "artist": "Hakos Baelz",
+      "has_synced": true,
+      "path": "select/04_Play_Dice!_(TeddyLoid_Re-Arrangement)_Hakos_Baelz.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Play Dice! (TeddyLoid Re-Arrangement)（Instrumental）",
+      "artist": "Hakos Baelz",
+      "has_synced": false,
+      "path": "select/05_Play_Dice!_(TeddyLoid_Re-Arrangement)(Instrumental)_Hakos_Baelz.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Play Dice!",
+      "artist": "Hakos Baelz",
+      "has_synced": false,
+      "path": "select/pl_01_Play_Dice!_Hakos_Baelz.txt"
+    }
+  ]
+}
